@@ -1,0 +1,22 @@
+{
+  "name": "tl_code_challenge",
+  "version": "1.0.0",
+  "description": "prompt_d",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Jimmy Wang",
+  "license": "ISC",
+  "dependencies": {
+    "babyparse": "^0.4.6",
+    "cwait": "^1.0.1",
+    "hyperquest": "^2.1.2",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.3.0"
+  }
+}
